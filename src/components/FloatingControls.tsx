@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { useMap } from './map/MapContext';
 
 export const FloatingControls: React.FC = () => {

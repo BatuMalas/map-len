@@ -10,7 +10,7 @@ Aplikasi pemetaan interaktif menggunakan React, TypeScript, dan OpenLayers untuk
 *   **Unit Testing**: Terintegrasi dengan Vitest (Jest-compatible) untuk menjamin akurasi perhitungan.
 
 ## 🛠️ Tech Stack
-*   **Bahan Baku**: React v19, TypeScript v5.9
+*   **Bahasa**: React v19, TypeScript v5.9
 *   **Build Tool**: Vite v7
 *   **Peta**: OpenLayers v10
 *   **Styling**: TailwindCSS
